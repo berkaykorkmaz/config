@@ -1,0 +1,5 @@
+alias icloud='cd /Users/berkaykorkmaz/Library/Mobile\ Documents/com~apple~CloudDocs/'
+alias besupecom='ssh -i ~/.ssh/id_rsa-withpass besupe.com'
+plugins=(
+  git
+)
